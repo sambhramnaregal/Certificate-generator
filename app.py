@@ -146,7 +146,7 @@ HTML_FORM = """<!DOCTYPE html>
 
     <div class="text">
         has successfully completed the internship program in<br>
-        <b>CSE (Data Science) / AI & ML</b> at our organization.<br><br>
+        <b>CSE (Data Science) / AI & ML new main</b> at our organization.<br><br>
         During this period, the intern demonstrated dedication,
         technical skills, and professionalism in all assigned tasks.
     </div>
